@@ -25,61 +25,73 @@ export default class EditEmployee extends Component {
 
                 <div className='body'>
                     <Container>
-                      
+
                         <Row>
                             <Col>
                                 <div className='card p-5  '>
 
                                     <Form>
                                         <Row>
-                                            <Col>
+                                            {/* <Col> */}
                                                 <label>Employee Name :</label><br />
-                                                <input type="text" className='my-2 input_type' size='30' />
-                                            </Col>
-                                            <Col>
+                                                <input type="text" className='my-2 input_type' size='25' />
+                                            {/* </Col> */}
+                                            {/* <Col> */}
                                                 <label>Employee Address :</label><br />
-                                                <input type="text" className='my-2 input_type' size='30' />
-                                            </Col>
+                                                <input type="text" className='my-2 input_type' size='25' />
+                                            {/* </Col> */}
                                         </Row>
-                                        <Row>
-                                            <Col>
-                                                <label>Partner Payment Status :</label><br />
-                                                <input type="text" className='my-2 input_type' size='30' />
-                                            </Col>
-                                            <Col>
-                                                <label>Commision Percentage :</label><br />
-                                                <input type="text" className='my-2 input_type' size='30' />
-                                            </Col>
-                                        </Row>
+                                      
                                         <Row>
                                             <Col>
                                                 <label>Phone:</label><br />
-                                                <input type="text" className='my-2 input_type' size='30' />
+                                                <input type="text" className='my-2 input_type' size='52' />
                                             </Col>
                                             <Col>
-                                                <label>Country :</label><br />
-                                                <input type="text" className='my-2 input_type' size='30' />
+                                            <label>Zip Code :</label><br />
+                                                <input type="text" className='my-2 input_type' size='52' />
                                             </Col>
                                         </Row>
                                         <Row>
                                             <Col>
                                                 <label>State :</label><br />
-                                                <input type="text" className='my-2 input_type' size='30' />
+                                                <input type="text" className='my-2 input_type' size='52' />
                                             </Col>
                                             <Col>
-                                                <label>Zip Code :</label><br />
-                                                <input type="text" className='my-2 input_type' size='30' />
+                                            <label>Country :</label><br />
+                                                <input type="text" className='my-2 input_type' size='52' />
+                                              
                                             </Col>
                                         </Row>
                                         <Row>
                                             <Col>
-                                                <label>Birth Date :</label><br />
-                                                <input type="date" className='my-2 input_type' size='30' />
+                                            <label>Commision Percentage :</label><br />
+                                                <input type="text" className='my-2 input_type' size='52' />
+
                                             </Col>
                                             <Col>
-                                                <label>Email :</label><br />
-                                                <input type="text" className='my-2 input_type' size='30' />
+                                                <label>Birth Date :</label><br />
+                                                <input type="date" className='my-2 input_type bithdate_field' size='52' />
                                             </Col>
+                                        </Row>
+                                        <Row>
+                                            {/* <Col> */}
+                                                <label>Partner Payment Status :</label><br />
+                                                <input type="text" className='my-2 input_type' size='30' />
+                                            {/* </Col> */}
+                                            {/* <Col> */}
+                                            <label>Email :</label><br />
+                                                <input type="text" className='my-2 input_type' size='30' />
+                                          
+                                            {/* </Col> */}
+                                        </Row>
+                                        <Row>
+                                            <Col>
+                                            <p align="center" className='mt-4'>
+                                                <button type="button" className='btn btn-info bg-primary  update' >Update</button> <button type="button" className='btn btn-info bg-danger update'>Cancel</button>
+                                                </p>
+                                            </Col>
+
                                         </Row>
                                     </Form>
                                 </div>

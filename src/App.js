@@ -28,6 +28,7 @@ import Dashboard from './layout/Dashboard';
 import Editpartner from './layout/Editpartner';
 import PartnerEmployee from './layout/PartnerEmployee';
 import EditEmployee from './layout/EditEmployee';
+import Partnercoverphoto from './layout/Partnercoverphoto';
 
 export default class App extends Component {
    render() {
@@ -85,10 +86,12 @@ export default class App extends Component {
 
       
      <div>
-        {/* <Editpartner /> */}
-          <PartnerEmployee />
+
+        {/* <Partnercoverphoto /> */}
+       {/* <Editpartner /> 
+          <PartnerEmployee /> */} 
            {/* <EditEmployee/>  */}
-        {/* <Table /> */}
+        <Table />
           {/* <Dashboard/>     */}
      </div>
 

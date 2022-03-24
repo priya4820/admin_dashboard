@@ -45,19 +45,19 @@ export default class Dashboard extends Component {
               <Col>
                 <div className='card text-left p-5 mt-4'>
                   <h6 >
-                  TOTAL ORDER
+                    TOTAL ORDER
                   </h6>
-                 <h4>46</h4> 
+                  <h4>46</h4>
                   <label for="file">Total Requirerment ordered of this month</label>
                   <progress id="file" value="50" max="100" > </progress>
                 </div>
               </Col>
               <Col>
-              <div className='card text-left p-5 mt-4'>
+                <div className='card text-left p-5 mt-4'>
                   <h6>
-                  COMPLETED ORDER
+                    COMPLETED ORDER
                   </h6>
-                  <h4>25</h4> 
+                  <h4>25</h4>
                   <label for="file">Completed Order of this month</label>
                   <progress id="file" value="70" max="100" > </progress>
                 </div>
@@ -65,9 +65,9 @@ export default class Dashboard extends Component {
               <Col>
                 <div className='card text-left p-5 mt-4'>
                   <h6>
-                  TOTAL ORDER
+                    TOTAL ORDER
                   </h6>
-                  <h4>0</h4> 
+                  <h4>0</h4>
                   <label for="file">Completed Order of this month</label>
                   <progress id="file" value="10" max="100" > </progress>
                 </div>
@@ -75,12 +75,12 @@ export default class Dashboard extends Component {
               <Col>
                 <div className='card text-left p-5 mt-4'>
                   <h6>
-                  COMPLETED ORDER
+                    COMPLETED ORDER
                   </h6>
                   <h4>0</h4>
                   <label for="file">Completed Order of the today</label>
                   <progress id="file" value="60" max="100" > </progress>
-                 
+
                 </div>
               </Col>
             </Row>
@@ -88,20 +88,20 @@ export default class Dashboard extends Component {
               <Col>
                 <div className='card text-left p-5 mt-4'>
                   <h6 >
-                  CANCELLED ORDER
+                    CANCELLED ORDER
                   </h6>
-                 <h4>0</h4> 
+                  <h4>0</h4>
                   <label for="file">Cancelled Order of this month</label>
                   <progress id="file" value="40" max="100" > </progress>
-                 
+
                 </div>
               </Col>
               <Col>
                 <div className='card text-left p-5 mt-4'>
                   <h6>
-                  ORDER PROCESSING
+                    ORDER PROCESSING
                   </h6>
-                  <h4>0</h4> 
+                  <h4>0</h4>
                   <label for="file">Order Processing of this month</label>
                   <progress id="file" value="" max="100" > </progress>
                 </div>
@@ -109,9 +109,9 @@ export default class Dashboard extends Component {
               <Col>
                 <div className='card text-left p-5 mt-4'>
                   <h6 >
-                  CANCELLED ORDER
+                    CANCELLED ORDER
                   </h6>
-                  <h4>0</h4> 
+                  <h4>0</h4>
                   <label for="file">Cancelled Order of the today</label>
                   <progress id="file" value="70" max="100" > </progress>
                 </div>
@@ -119,9 +119,9 @@ export default class Dashboard extends Component {
               <Col>
                 <div className='card text-left p-5 mt-4'>
                   <h6 >
-                  ORDER PROCESSING
+                    ORDER PROCESSING
                   </h6>
-                  <h4>0</h4> 
+                  <h4>0</h4>
                   <label for="file">Order Processing of the today</label>
                   <progress id="file" value="" max="100" > </progress>
                 </div>

@@ -148,10 +148,10 @@ export default class table extends Component {
               </tr>
               <tr>
                 <td><img src='https://iconarchive.com/download/i106731/praveen/minimal-outline/gallery.ico'></img></td>
-                <td>dhara</td>
+                <td>Kajal</td>
                 <td>Busissnes</td>
                 <td>ahmedabad</td>
-                <td>dhara@gmail.com</td>
+                <td>Kajal@gmail.com</td>
                 <td>
                   9876567876
                 </td>
@@ -161,10 +161,10 @@ export default class table extends Component {
               </tr>
               <tr>
                 <td><img src='https://iconarchive.com/download/i106731/praveen/minimal-outline/gallery.ico'></img></td>
-                <td>dhara</td>
+                <td>Kinjal</td>
                 <td>Busissnes</td>
                 <td>ahmedabad</td>
-                <td>dhara@gmail.com</td>
+                <td>kinjal@gmail.com</td>
                 <td>
                   9876567876
                 </td>
@@ -174,10 +174,10 @@ export default class table extends Component {
               </tr>
               <tr>
                 <td><img src='https://iconarchive.com/download/i106731/praveen/minimal-outline/gallery.ico'></img></td>
-                <td>dhara</td>
+                <td>Ritu</td>
                 <td>Busissnes</td>
                 <td>ahmedabad</td>
-                <td>dhara@gmail.com</td>
+                <td>ritu@gmail.com</td>
                 <td>
                   9876567876
                 </td>
