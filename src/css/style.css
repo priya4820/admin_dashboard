@@ -462,6 +462,7 @@ filter{
    
    padding: 100px;
   height: 50px;
+  
    
 }
 
@@ -469,12 +470,14 @@ filter{
  table{
    text-align: center;
    border: 1cm;
+   width: 100%;
    
  }
 
  .table td,th{
    border: 1px solid black;
    height: 50px;
+ 
 
  }
  .table th{
@@ -559,3 +562,12 @@ filter{
   tr:nth-child(even){
     background-color: #eee;
   }
+ .card{
+  box-shadow: 0px 3px 15px 0px rgb(0 0 0 / 37%);
+  box-sizing: 20px;
+ }
+ .card p3
+ {
+   padding: 2rem;
+   
+ }

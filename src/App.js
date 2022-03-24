@@ -27,6 +27,7 @@ import Sidebar from './layout/Sidebar';
 import Dashboard from './layout/Dashboard';
 import Editpartner from './layout/Editpartner';
 import PartnerEmployee from './layout/PartnerEmployee';
+import EditEmployee from './layout/EditEmployee';
 
 export default class App extends Component {
    render() {
@@ -84,14 +85,11 @@ export default class App extends Component {
 
       
      <div>
-
-          {/* <PartnerEmployee /> */}
-
-{/*         
-       <Table />
-     
-       <Editpartner />   */}
-         <Dashboard/> 
+        {/* <Editpartner /> */}
+          <PartnerEmployee />
+           {/* <EditEmployee/>  */}
+        {/* <Table /> */}
+          {/* <Dashboard/>     */}
      </div>
 
       // <div>
@@ -105,6 +103,7 @@ export default class App extends Component {
       );
    }
 }
+//git remote add origin https://github.com/bhoomi0809/admin_dashboard.git
 
 
 

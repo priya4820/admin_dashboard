@@ -103,7 +103,7 @@ export default class Editpartner extends Component {
                                         <Row>
                                             <Col>
                                                 <label>Birth Date :</label><br />
-                                                <input type="text" className='my-2 input_type'size='30' />
+                                                <input type="date" className='my-2 input_type'size='30' />
                                             </Col>
                                             <Col>
                                                 <label>Busissnes type :</label><br />
