@@ -1,0 +1,561 @@
+
+
+
+
+/* .head{
+  background-color: azure;
+}
+.menu1{
+    color: black;
+    text-decoration: none;
+   
+
+  }
+  .menu1 a{
+     
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-left: 30px;
+  
+    color: black !important;
+    text-decoration: none !important;
+     
+    float: right;
+  }
+
+  .logo1{
+        width: 50px;
+        height: 50px;
+        margin-top: -5px;
+        border-radius: 5px;
+        background-color: rgb(170, 216, 201);
+        transform-style: preserve-3d;
+  }
+  .logo1:before{
+    position: absolute;
+    content: '';
+    width: 43px;
+    height: 41px;
+    background-color: rgb(53, 170, 131);
+    z-index: 1;
+    top: 15px;
+    border-radius: 5px;
+    margin-top: 5px;
+
+  } 
+
+  .headimg1 h4{
+    position: absolute;
+        top: 35%;
+        left: 35%;
+  } 
+  .containarimg{
+    
+     text-align: center;
+    background-image: url('https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png');
+    padding: 100px 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  .butn{
+     text-align: center;
+     color: rgb(15, 21, 27);
+     font-style: normal;
+
+  }
+  .containertext{
+
+    background-color:white;
+    
+    text-align: center;
+  }
+  .containertext h4{
+    padding-top: 10px;
+  }
+  .about{
+    background-color:rgb(229, 241, 241);
+    padding: 50px 0px;
+
+  }
+  
+  .about img{
+       height: 150px;
+       width: 250px;
+       margin-left: 50px;
+       border-image: round;
+  }
+
+.cartunimg img{
+  border-radius: 50%;
+  height: 100px;
+       width: 200px;
+}
+.subscribe{
+  padding: 50px 0px;
+  background-color: rgb(52, 189, 52);
+}
+.subscribe input{
+
+      margin-right: 10px;
+      box-sizing:content-box;
+      size:50px;
+}
+.contact{
+  padding: 50px 0px;
+}
+.contact img{
+  
+  width:20px;
+  margin-top: -30px;
+}
+.footer{
+  background-color: black;
+ margin-bottom: -10px; 
+ 
+
+}
+.footer h3{
+  text-align: center;
+}
+.search{
+  
+  margin-top: 20px;
+}
+.search input{
+  margin-right: 10px;
+  margin-left: 40px;
+ 
+} */
+
+/*webpage2 css*/
+
+.header1{
+  margin-top: 0px;
+  
+    background-color: rgba(0, 0, 0, 0.116);
+  
+    font-style: normal;
+   
+
+}
+.header1 img{
+  width:20px;
+  margin-top: -5px;
+  margin-right:5px;
+  margin-left:5px;
+  
+}
+.header2{
+  
+  color:white;
+  background-color: hsl(0, 0%, 1%);
+ 
+}
+.header2 img{
+  width:30px;
+  margin-top: 10px;
+  margin-right:3px;
+  margin-left:3px;
+  color:white;
+}
+
+  
+  
+
+.header2 button{
+  border-radius: 5px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: bold;
+  box-shadow: 0 8px 16px 0 #dbd5d533, 0 6px 20px 0 rgba(224, 222, 222, 0.19);
+  color: white;
+  background-color:black;
+}
+.main{
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/88/815/645/surface-bubbles-dark-background-wallpaper-preview.jpg);
+  size: 50px;
+  color: white;
+  text-align: center;
+  padding: 100px 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.main h4{
+  margin-top: 10px;
+
+}
+.main2{
+  background-color: #000410;
+  color: white;
+  text-align: center;
+  size: 50px;
+  padding: 50px 0px;
+}
+.text{
+  transform-style: preserve-3d;
+  position: relative;
+  left: -30%;
+}
+
+.text:before{
+  position: absolute;
+  content: '';
+  border: 1px solid white;
+  width: 328px;
+  height: 1px;
+  right: -24%;
+  top: 50%;
+}
+
+.text1{
+  transform-style: preserve-3d;
+  position: relative;
+  left: -39%;
+
+}
+.text1:after{
+  position: absolute;
+  content: '';
+  border: 1px solid white;
+  width: 340px;
+  height: 1px;
+  right: -110px;
+  top: 50%;
+}
+
+.main3{
+  background-color: #000410;
+  color: white;
+ 
+  size: 30px;
+  padding: 50px 0px;
+}
+.main3 textarea{
+  width: 450px;
+  padding: 15px 20px;
+  height: 100px;
+}
+
+.main3 button{
+  text-align: center;
+     color: #e9edf3;
+     font-style: normal;
+     background-color: rgb(65, 113, 202);
+     border-radius: 7px;
+}
+.footer{
+  background-color: #000410;
+  size: 30px;
+  padding: 50px 0px;
+  margin-top: 2px;
+  color: white;
+  text-align: center;
+}
+.footer img{
+  width:60px;
+  margin-top: 10px;
+  margin-right:20px;
+  margin-left:80px;
+  
+ 
+}  
+.login{
+  
+  background-color: #1c3772af;
+  color:black;
+  text-align: center;
+  size: 100px;
+  padding: 350px 0px;
+  
+}
+
+/* webpage3 */
+ /* .header1{
+  color: white;
+  background-color: black;
+  margin-top: 0px;
+  margin-left: 0px;
+  padding: 20px 10px;
+}
+.header1 button{
+  background-color: white;
+  color: black;
+  border-radius: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  align-self: center;
+  padding: 15px 15px;
+  height: 50px;
+  width: 200px;
+}
+.main{
+  margin-top: 2px;
+  background-color: black;
+  color: white;
+  padding: 70px 30px 0px;
+}
+.main1{
+  margin-top: 2px;
+  background-color: black;
+  color: white;
+  padding: 100px 130px 0px;
+
+}
+.main2{
+  background-color: white;
+  margin-top: 0px;
+ 
+  color: black;
+  height: 700px;
+  width: 700px;
+}
+.main2 h4{
+  margin-top: 50px;
+}
+.main2 button{
+  background-color: black;
+  color:white;
+   padding: 10px 40px;
+  font-style: normal;
+}
+.main2 a{
+  color: black;
+  margin-left: 20px;
+}
+.radio1{
+  margin-right: 10px;
+ 
+}
+.radio2{
+  margin-left: 20px;
+  margin-right: 5px;
+}
+
+.input1{
+  margin-left: 11px;
+   border: none;
+  background-color:#eeee;
+}
+.input2{
+  margin-left:0px;
+  background-color:#eeee;
+  border: none;
+}
+.input3{
+  border: none;
+  background-color:#eeee;
+}
+.main3{
+  margin-top: 60px;
+}
+.main4{
+  margin-top: 50px;
+ 
+}
+.main4 img{
+  margin-left: 100px;
+  align-items: center;
+  margin-right: 50px;
+}
+.main4 p{
+  text-align: center;
+}
+.main5{
+  margin-top: 80px;
+}
+.main5 img{
+     margin-top: 0px;
+    width: 700px;
+    height: 300px;
+    margin-top: none;
+   
+}
+
+.main6{
+  margin-top: 90px;
+}
+.main6 img{
+        width: 50px;
+        height: 50px;
+        
+        margin-top: 20px;
+}
+.main7{
+  margin-top: 50px;
+  background-color: black;
+  color: #eeee;
+}
+.main7 h4{
+  margin-top: 100px;
+}
+.main h6{
+  margin-top:20px; 
+}*/
+
+
+
+
+/* velidation.js */
+
+/* #register{
+  width: 400px;
+  height: 800px;
+  border: 1px solid #d6d7da;
+  padding: 0px 25px 25px 35px;
+  border-radius: 5px;
+  font-family: arial;
+  line-height: 16px;
+  color: #333333;
+  font-size: 20px;
+  background: white; 
+  margin-left: 700px;
+
+  
+}
+
+.button {
+  background-color: #00BFFF;
+  border-color: #3ac162;
+  font-weight: bold;
+  padding: 15px 15px;
+  color: #ffffff;
+}
+
+.main-color{
+  background-color: rgb(0, 109, 128);
+  padding: 75px 0px;
+}
+
+form label, form input {
+  display: block;
+  margin-bottom: 10px;
+  width: 90%
+}
+
+form input {
+  padding: 10px;
+  border: solid 1px #BDC7D8;
+
+}
+.label{
+  text-align: center;
+  font-style: italic ;
+  text-decoration: underline solid;
+}
+
+table{
+  margin-top: 20px;
+}
+
+table, th, td {
+  border: 1px solid;
+}
+ */
+
+ span{
+   background-color: yellow;
+ }
+
+filter{
+
+   
+   padding: 100px;
+  height: 50px;
+   
+}
+
+   
+ table{
+   text-align: center;
+   border: 1cm;
+   
+ }
+
+ .table td,th{
+   border: 1px solid black;
+   height: 50px;
+
+ }
+ .table th{
+    
+   height: 50px;
+   
+  margin-top: 10px;
+   background-color: rgb(47, 54, 52);
+  font-size: medium;
+  color: white;
+
+ 
+ }
+ 
+ .table span{
+   background-color: #FF9948
+ }
+  .td{
+    color: #043510;
+  }
+
+  td img{
+    width: 50px;
+  }
+
+  .sidebar {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+  
+  .sidebar a {
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+  }
+   
+  .sidebar a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  .sidebar a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+  }
+
+  .pagination{
+    margin-right: 50px;
+  }
+
+ 
+  .btn-info{
+    width: 66px;
+    height: 33px;
+    border: 0px;
+    color: #fff;
+  }
+  .rounded-circle{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .radio{
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+  .update{
+    width: 98px;
+    margin-top: 15px;
+  }
+  .input_type{
+    background: #f5f5f5;
+    border: 1px solid black;
+    padding: 5px;
+  }
+  tr:nth-child(even){
+    background-color: #eee;
+  }
