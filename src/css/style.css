@@ -470,8 +470,10 @@ filter{
  table{
    text-align: center;
    border: 1cm;
-   width: 120%;
    
+ }
+ .table{
+   width: 120%;
  }
 
  .table td,th{

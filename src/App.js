@@ -86,12 +86,12 @@ export default class App extends Component {
 
       
      <div>
-
-        {/* <Partnercoverphoto /> */}
+     {/* <PartnerEmployee/> */}
+        <Partnercoverphoto />
        {/* <Editpartner /> 
-          <PartnerEmployee /> */} 
+      
            {/* <EditEmployee/>  */}
-        <Table />
+        {/* <Table /> */}
           {/* <Dashboard/>     */}
      </div>
 
