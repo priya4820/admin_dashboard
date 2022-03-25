@@ -1,7 +1,3 @@
-
-
-
-
 /* .head{
   background-color: azure;
 }
@@ -129,48 +125,40 @@
 
 /*webpage2 css*/
 
-.header1{
+.header1 {
   margin-top: 0px;
-  
-    background-color: rgba(0, 0, 0, 0.116);
-  
-    font-style: normal;
-   
 
+  background-color: rgba(0, 0, 0, 0.116);
+
+  font-style: normal;
 }
-.header1 img{
-  width:20px;
+.header1 img {
+  width: 20px;
   margin-top: -5px;
-  margin-right:5px;
-  margin-left:5px;
-  
+  margin-right: 5px;
+  margin-left: 5px;
 }
-.header2{
-  
-  color:white;
+.header2 {
+  color: white;
   background-color: hsl(0, 0%, 1%);
- 
 }
-.header2 img{
-  width:30px;
+.header2 img {
+  width: 30px;
   margin-top: 10px;
-  margin-right:3px;
-  margin-left:3px;
-  color:white;
+  margin-right: 3px;
+  margin-left: 3px;
+  color: white;
 }
 
-  
-  
-
-.header2 button{
+.header2 button {
   border-radius: 5px;
-   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   font-style: bold;
   box-shadow: 0 8px 16px 0 #dbd5d533, 0 6px 20px 0 rgba(224, 222, 222, 0.19);
   color: white;
-  background-color:black;
+  background-color: black;
 }
-.main{
+.main {
   background-image: url(https://c4.wallpaperflare.com/wallpaper/88/815/645/surface-bubbles-dark-background-wallpaper-preview.jpg);
   size: 50px;
   color: white;
@@ -178,29 +166,27 @@
   padding: 100px 0px;
   background-repeat: no-repeat;
   background-size: cover;
-  
 }
 
-.main h4{
+.main h4 {
   margin-top: 10px;
-
 }
-.main2{
+.main2 {
   background-color: #000410;
   color: white;
   text-align: center;
   size: 50px;
   padding: 50px 0px;
 }
-.text{
+.text {
   transform-style: preserve-3d;
   position: relative;
   left: -30%;
 }
 
-.text:before{
+.text:before {
   position: absolute;
-  content: '';
+  content: "";
   border: 1px solid white;
   width: 328px;
   height: 1px;
@@ -208,15 +194,14 @@
   top: 50%;
 }
 
-.text1{
+.text1 {
   transform-style: preserve-3d;
   position: relative;
   left: -39%;
-
 }
-.text1:after{
+.text1:after {
   position: absolute;
-  content: '';
+  content: "";
   border: 1px solid white;
   width: 340px;
   height: 1px;
@@ -224,27 +209,27 @@
   top: 50%;
 }
 
-.main3{
+.main3 {
   background-color: #000410;
   color: white;
- 
+
   size: 30px;
   padding: 50px 0px;
 }
-.main3 textarea{
+.main3 textarea {
   width: 450px;
   padding: 15px 20px;
   height: 100px;
 }
 
-.main3 button{
+.main3 button {
   text-align: center;
-     color: #e9edf3;
-     font-style: normal;
-     background-color: rgb(65, 113, 202);
-     border-radius: 7px;
+  color: #e9edf3;
+  font-style: normal;
+  background-color: rgb(65, 113, 202);
+  border-radius: 7px;
 }
-.footer{
+.footer {
   background-color: #000410;
   size: 30px;
   padding: 50px 0px;
@@ -252,26 +237,22 @@
   color: white;
   text-align: center;
 }
-.footer img{
-  width:60px;
+.footer img {
+  width: 60px;
   margin-top: 10px;
-  margin-right:20px;
-  margin-left:80px;
-  
- 
-}  
-.login{
-  
+  margin-right: 20px;
+  margin-left: 80px;
+}
+.login {
   background-color: #1c3772af;
-  color:black;
+  color: black;
   text-align: center;
   size: 100px;
   padding: 350px 0px;
-  
 }
 
 /* webpage3 */
- /* .header1{
+/* .header1{
   color: white;
   background-color: black;
   margin-top: 0px;
@@ -393,9 +374,6 @@
   margin-top:20px; 
 }*/
 
-
-
-
 /* velidation.js */
 
 /* #register{
@@ -453,127 +431,119 @@ table, th, td {
 }
  */
 
- span{
-   background-color: yellow;
- }
-
-filter{
-
-   
-   padding: 100px;
-  height: 50px;
-  
-   
+span {
+  background-color: yellow;
 }
 
-   
- table{
-   text-align: center;
-   border: 1cm;
-   
- }
- .table{
-   width: 120%;
- }
+filter {
+  padding: 100px;
+  height: 50px;
+}
 
- .table td,th{
-   border: 1px solid black;
-   height: 50px;
- 
+table {
+  text-align: center;
+  border: 1cm;
+  width: 120%;
+}
 
- }
- .table th{
-    
-   height: 50px;
-   
+.table td,
+th {
+  border: 1px solid black;
+  height: 50px;
+}
+.table th {
+  height: 50px;
+
   margin-top: 10px;
-   background-color: rgb(47, 54, 52);
+  background-color: rgb(47, 54, 52);
   font-size: medium;
   color: white;
-
- 
- }
- 
- .table span{
-   background-color: #FF9948
- }
-  .td{
-    color: #043510;
-  }
-
-  td img{
-    width: 50px;
-  }
-
-  .sidebar {
-    margin: 0;
-    padding: 0;
-    width: 200px;
-    background-color: #f1f1f1;
-    position: fixed;
-    height: 100%;
-    overflow: auto;
-  }
-  
-  .sidebar a {
-    display: block;
-    color: black;
-    padding: 16px;
-    text-decoration: none;
-  }
-   
-  .sidebar a.active {
-    background-color: #04AA6D;
-    color: white;
-  }
-  
-  .sidebar a:hover:not(.active) {
-    background-color: #555;
-    color: white;
-  }
-
-  .pagination{
-    margin-right: 50px;
-  }
-
- 
-  .btn-info{
-    width: 66px;
-    height: 33px;
-    border: 0px;
-    color: #fff;
-  }
-  .rounded-circle{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .radio{
-    margin-right: 5px;
-    margin-left: 5px;
-  }
-  .update{
-    width: 98px;
-    margin-top: 15px;
-  }
-  .bithdate_field{
-    width: 99%;
-  }
-  .input_type{
-    background: #e7e7e7;
-    border: 1px solid black;
-    padding: 5px;
-    border-radius: 5px;
 }
-  tr:nth-child(even){
-    background-color: #eee;
-  }
- .card{
+
+.table span {
+  background-color: #ff9948;
+}
+.td {
+  color: #043510;
+}
+
+td img {
+  width: 50px;
+}
+
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.sidebar a.active {
+  background-color: #04aa6d;
+  color: white;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+.pagination {
+  margin-right: 50px;
+}
+
+.btn-info {
+  width: 66px;
+  height: 33px;
+  border: 0px;
+  color: #fff;
+}
+.rounded-circle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.radio {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+.update {
+  width: 98px;
+  margin-top: 15px;
+}
+.bithdate_field {
+  width: 99%;
+}
+.input_type {
+  background: #e7e7e7;
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 5px;
+}
+tr:nth-child(even) {
+  background-color: #eee;
+}
+.card {
   box-shadow: 0px 3px 15px 0px rgb(0 0 0 / 37%);
   box-sizing: 20px;
- }
- .card p3
- {
-   padding: 2rem;
-   
- }
+}
+.card p3 {
+  padding: 2rem;
+}
+.select_option {
+  width: 102%;
+  height: 40px;
+  background: #e7e7e7;
+  border-radius: 5px;
+  margin-left: -15px;
+}
